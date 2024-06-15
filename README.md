@@ -1,5 +1,6 @@
 Netflix_form (folder)
-|
+
+
 |----readme.md     
 |----images               
 |----index.html 
